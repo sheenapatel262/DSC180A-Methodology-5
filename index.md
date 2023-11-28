@@ -1,16 +1,13 @@
----
-layout: page
-title: "Methodology 5"
----
 
-DSC 180A: Methodology 5
+-- 
+# DSC 180A: Methodology 5
 --
 * Name: Sheena Patel
 * E-mail: s4patel@ucsd.edu
 * Section: B12
 * Professors: Gal Mishne & Yusu Wang
 -- 
-# four prompts
+### Four prompts
 
 * What is the most interesting topic covered in your domain this quarter?
   > The most interesting topic covered during quarter 1 was the common problems of oversquashig and oversmoothing in GNN’s due to long-range interactions. This topic is interesting because we had to investigate and look into potential solutions to overcome these phenomena during information passing of large networks without having to simplify the model to gain similar node embeddings. Solutions include the concept of Differential Group Normalization.
