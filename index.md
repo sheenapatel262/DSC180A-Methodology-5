@@ -1,12 +1,11 @@
 
----
 # DSC 180A: Methodology 5
 ---
 * Name: Sheena Patel
 * E-mail: s4patel@ucsd.edu
 * Section: B12
 * Professors: Gal Mishne & Yusu Wang
----
+
 ### Four prompts
 
 * What is the most interesting topic covered in your domain this quarter?
