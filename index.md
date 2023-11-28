@@ -15,5 +15,4 @@
 * What is a potential change you’d make to the approach taken in your current Quarter 1 Project?
   > Currently, I would like to implement more code analysis into my project and dive deeper to understand why certain models perform the way they do. Right now, my project is more of an analysis when I would like to make it more of a test and discover to draw conclusions. 
 * What other techniques would you be interested in using in your project?
-  > I would like to create more tables and charts to gather my information in one area for analysis. Moreover, I want to draw from works of other scientists who have researched this and not only from the sources we have been provided by professors. 
-
+  > I would like to create more tables and charts to gather my information in one area for analysis. Moreover, I want to draw from works of other scientists who have researched this and not only from the sources we have been provided by professors.
